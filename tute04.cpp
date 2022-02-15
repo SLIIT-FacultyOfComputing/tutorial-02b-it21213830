@@ -32,5 +32,9 @@ int main() {
 }
 long Factorial(int no)
 {
-
+ return no;
+}
+long nCr(int n, int r)
+{
+  return !n/!r(n-r)! ;
 }
